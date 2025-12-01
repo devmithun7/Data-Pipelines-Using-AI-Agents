@@ -1,0 +1,3 @@
+- Apache Airflow 2.10
+- Astro CLI 1.33.0
+- Docker Compose v2.31.0

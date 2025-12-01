@@ -1,0 +1,9 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+
+# Testing dependencies
+pytest==7.4.4
+pytest-mock==3.12.0
+requests-mock==1.11.0
+
+# API dependencies
+requests==2.31.0
